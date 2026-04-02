@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.egov.oneId",
+      "sha256_cert_fingerprints": [
+        "5A:58:17:19:42:D9:73:3B:5E:48:85:9F:7A:69:91:4A:71:F8:55:D3:CF:2D:54:82:0A:CE:AB:1A:C1:30:0C:EA"
+      ]
+    }
+  }
+]
